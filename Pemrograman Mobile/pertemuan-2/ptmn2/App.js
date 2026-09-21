@@ -25,7 +25,7 @@ const styles = StyleSheet.create({
   },
   textTitle: {
     color: '#0000FF',
-    fontSize: 40,
+    fontSize: 30,
     fontWeight: 'bold',
     marginBottom: 20,
   },
