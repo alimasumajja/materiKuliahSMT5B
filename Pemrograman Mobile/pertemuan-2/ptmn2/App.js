@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.textTitle}>Hello, World!</Text>
+      <Text style={styles.textTitle}>CURRICULUM VITAE</Text>
       <Text style={styles.textNormal}>Nama: Ali Ma'sum Ajjawiyi</Text>
       <Text style={styles.textNormal}>NIM: 2488010010</Text>
       <Text style={styles.textNormal}>Cita-cita: Web Developer</Text>
