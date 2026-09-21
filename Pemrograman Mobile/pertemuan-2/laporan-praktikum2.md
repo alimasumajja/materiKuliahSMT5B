@@ -41,7 +41,8 @@ mahasiswa mampu :
     - Cita-cita
     - Rencana Menggapai cita-cita
     - konfirmasi keberhasilan
-    
-    <img src=image-5.png width="20%" >
+
+    <img src=image-6.png width="20%" >
     <img src=image-4.png width="20%" >
+
     

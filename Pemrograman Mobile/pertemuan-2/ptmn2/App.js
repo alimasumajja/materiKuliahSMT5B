@@ -7,6 +7,7 @@ export default function App() {
       <Text style={styles.textTitle}>CURRICULUM VITAE</Text>
       <Text style={styles.textNormal}>Nama: Ali Ma'sum Ajjawiyi</Text>
       <Text style={styles.textNormal}>NIM: 2488010010</Text>
+      <Text style={styles.textNormal}>Asal Sekolah: Man 1 Cirebon</Text>
       <Text style={styles.textNormal}>Cita-cita: Web Developer</Text>
       <Text style={styles.textNormal}>menggapai cita-cita: berlatih dengan giat dan belajar dari kesalahan </Text>
       <StatusBar style="auto" />
